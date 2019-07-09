@@ -99,7 +99,7 @@ public class knightstour
   public static void main (String[]args)
   {
     int N = 8;
-    kt m = new knightstour(N);
+    knightstour m = new knightstour(N);
     m.solve ();
   }
 }
